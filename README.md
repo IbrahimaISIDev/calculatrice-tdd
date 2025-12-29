@@ -1,5 +1,6 @@
 # 🧮 Calculatrice TDD
 
+![Build](https://github.com/IbrahimaISIDev/calculatrice-tdd/workflows/Java%20CI%20with%20Maven/badge.svg)
 ![Java](https://img.shields.io/badge/Java-11-orange)
 ![Maven](https://img.shields.io/badge/Maven-3.8+-blue)
 ![JUnit](https://img.shields.io/badge/JUnit-5.10-green)
