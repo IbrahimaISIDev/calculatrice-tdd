@@ -37,7 +37,7 @@ Le projet démontre le cycle Rouge → Vert → Refactor avec 13 tests unitaires
 
 ### Clone le projet
 ```bash
-git clone https://github.com/TON-USERNAME/calculatrice-tdd.git
+git clone https://github.com/IbrahimaISIDev/calculatrice-tdd
 cd calculatrice-tdd
 ```
 
